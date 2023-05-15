@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- frame_63 strings -->
+
+	<string name="com_auth0_domain">sivr-auth-dev.us.auth0.com</string>
+	<string name="com_auth0_client_id">rzdRcVWiptSJT1j5qoecL4JStkGmABkq</string>
+	<string name="com_auth0_scheme">myapp</string>
+	<string name="app_name">Cashier Station</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="login_string">Login</string>
+	<string name="or_string">or</string>
+	<string name="log_in_to_your_account_string">Log in to your account</string>
+	<string name="remember_me_string">Remember me</string>
+	<string name="forgot_password__string">Forgot password?</string>
+	<string name="sign_in_with_google_string">Sign in with Google</string>
+	<string name="examplename_string">Examplename</string>
+	<string name="___string">|</string>
+	<string name="username_or_email_string">Username or email</string>
+	<string name="password_string">Password</string>
+	<string name="don_t_have_an_account__string">Dont have an account? </string>
+	<string name="sign_up_string">Sign up</string>
+</resources>
